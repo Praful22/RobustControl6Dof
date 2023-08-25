@@ -1,8 +1,12 @@
 # RobustControl for Aircrafts
 What and Why Robust Control? 
+
 -> Let's explore it throughout this project. 
+
 Why choose Aircraft? 
+
 --> Because my five sense organs make me excited about any flying creation created by humans (for this project, I choose Aircraft). 
+
 Nose : I love the smell of the engine, the smell that surrounds me when I board a (you name these names) Airlines, the smell of the cockpit, the smell of airframes. Has one ever smelled even the boarding gates or the boarding stairs to an airplane? Oh good god, the aroma around an aircraft!
 
 Skin: I find it super fun to touch the landing gears, softly caress the body frame (airframe), jump and pat on the nose cones a.k.a "radomes", and sometimes walk on the wings (this is going to be super controversial, sorry!).
