@@ -22,7 +22,7 @@ Now, that I have paid my homage to these sense organs without which I may barely
 
 ### Problem Statement
 
-Design a control scheme that works satisfactorily for a system with linear or nonlinear dynamics assuming the worst-case conditions for the unknowns of unknown which lie in the system dynamics.
+Design a control scheme that works satisfactorily for a system with linear or nonlinear dynamics assuming the worst-case conditions for the "unknowns of unknown" which lie in the system dynamics.
 
 ### Intuitive Goals to solve the problem:
 
