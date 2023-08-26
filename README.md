@@ -1,9 +1,10 @@
 # RobustControl for Aircrafts
-What and Why Robust Control? 
+
+### What and Why Robust Control? 
 
 -> Let's explore it throughout this project. 
 
-Why choose Aircraft? 
+### Why choose Aircraft? 
 
 --> Because my five sense organs make me excited about any flying creation created by humans (for this project, I choose Aircraft). 
 
@@ -20,6 +21,7 @@ Tongue: I've never licked.(PERIOD!) So a blank space ___________________________
 Now, that I have paid my homage to these sense organs without which I may barely survive. Let's dive into the fun part.
 
 ### Problem Statement
+
 Design a control scheme that works satisfactorily for a system with linear or nonlinear dynamics assuming the worst-case conditions for the unknowns of unknown which lie in the system dynamics.
 
 ### Intuitive Goals to solve the problem:
