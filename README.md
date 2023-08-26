@@ -15,7 +15,7 @@ Eyes: Have you ever seen or actually observed an aircraft not through the image(
 
 Ears: Sound is the best part! I love the sound of an aircraft. The sound during the ascent and descent of an aircraft. Have you ever even heard from far away what an aircraft engine
 
-Tongue: I've never licked an aircraft. So a blank space _____________________________________________________________________________________________________________________________________________________________________________________. (I might fill the blank space, don't know yet)
+Tongue: I've never licked.(PERIOD!) So a blank space _____________________________________________________________________________________________________________________________________________________________________________________. (I might fill the blank space, don't know yet)
 
 Now, that I have paid my homage to these sense organs without which I may barely survive. Let's dive into the fun part.
 
