@@ -9,7 +9,7 @@ Why choose Aircraft?
 
 Nose : I love the smell of the engine, the smell that surrounds me when I board a (you name these names) Airlines, the smell of the cockpit, the smell of airframes. Has one ever smelled even the boarding gates or the boarding stairs to an airplane? Oh good god, the aroma around an aircraft!
 
-Skin: I find it super fun to touch the landing gears, softly caress the body (airframe), jump and pat on the nose cones a.k.a "radomes", and sometimes walk on the wings (this is going to be super controversial, sorry!).
+Skin: I find it super fun to touch the landing gears, softly caress the body (fuselage), jump and pat on the nose cones a.k.a "radomes", and sometimes walk on the wings (this is going to be super controversial, sorry!).
 
 Eyes: Have you ever seen or actually observed an aircraft not through the image(oh, yeah it's an aircraft it is supposed to fly) of it but just the entirety of flying an aircraft? Human eyes are lucky to witness such a creation.
 
